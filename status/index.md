@@ -10,3 +10,5 @@ This page shows status of our Dedicated Minecraft Server, since not all the time
 Java: `environment-o.craft.ply.gg` Port: `7927`
 
 Bedrock: `children-passage.at.ply.gg` Port `59794`
+
+Bedrock players must have `1.19.20` and above while Java players must have atlease ``
