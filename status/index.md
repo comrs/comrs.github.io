@@ -11,4 +11,4 @@ Java: `environment-o.craft.ply.gg` Port: `7927`
 
 Bedrock: `children-passage.at.ply.gg` Port `59794`
 
-Bedrock players must have `1.19.20` and above while Java players must have atlease ``
+Bedrock players must have `1.19.20` and above while Java players must have atlease `1.19.2`
