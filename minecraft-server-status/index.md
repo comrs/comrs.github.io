@@ -7,10 +7,11 @@ This page shows status of our Dedicated Minecraft Server, since not all the time
 
 ![Server-status](https://mcapi.us/server/image?ip=environment-o.craft.ply.gg&port=7927&theme=dark&title=)
 
-Java: `147.185.221.180:7927`
+Java: `environment-o.craft.ply.gg:7927`
 
-Bedrock: `147.185.221.180` 
+Bedrock: `children-passage.at.ply.gg` 
 Port `59794`
 
-Bedrock players must have `1.19.20` and above while Java players must have atlease `1.19.2`
-> Note: Bedrock players must login first to Xbox in order to join due to Geyser limitations, workarounds are still in testing. In future this will be removed. 
+Bedrock players must have `1.19.50+` and above while Java players can play with versions below 1.19.4 (Thanks ViaVersion.)
+> ~~Note: Bedrock players must login first to Xbox in order to join due to Geyser limitations, workarounds are still in testing. In future this will be removed.~~ Players without account can join now! Enjoy! ;)
+
