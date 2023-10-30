@@ -10,7 +10,7 @@ This page shows the current status of our Dedicated Minecraft Server. Downtime o
 Java: `environment-o.craft.ply.gg`
 
 Bedrock: `children-passage.at.ply.gg` 
-Port `59794` or ![Click Me Instead!](minecraft:?addExternalServer=COMRS|children-passage.at.ply.gg:59794) (automatically opens minecraft then go to server section)
+Port `59794` or [Click Me Instead!](minecraft:?addExternalServer=COMRS|children-passage.at.ply.gg:59794) (automatically opens minecraft then go to server section)
 
 
 Cracked clients are welcome. Please enjoy your stay!
